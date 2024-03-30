@@ -1,7 +1,7 @@
 {
   "name": "expo-kiosk-control",
-  "version": "0.1.0",
-  "description": "My new module",
+  "version": "1.0.0",
+  "description": "A native expo module to control the kiosk mode on Android.",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "scripts": {
